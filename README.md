@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi World, 
+My name is Jasmine and I study Accounting and Finance  
